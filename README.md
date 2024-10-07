@@ -58,6 +58,9 @@ Once the client program is running, you will see a menu with several options:
 6. **Exit**: 
     Disconnect from the server and close the client program.
 
+   ![image](https://github.com/user-attachments/assets/5a883e34-feb9-433e-bb0c-d4e7a083cd29)
+
+
 ---
 
 ## **Key Programming Principles**
@@ -112,7 +115,6 @@ Here’s a sample run of the program using the iris dataset:
 
 3. **Upload the Dataset** and proceed with classification based on user-defined parameters.
 
-![image](https://github.com/user-attachments/assets/5a883e34-feb9-433e-bb0c-d4e7a083cd29
 )  
 
 ---
