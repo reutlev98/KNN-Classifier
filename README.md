@@ -41,22 +41,22 @@ After establishing a connection, a menu will appear to guide you through the KNN
 Once the client program is running, you will see a menu with several options:
 
 1. **Upload CSV Files**: 
-   - Send both training and testing CSV files to the server for classification.
+    Send both training and testing CSV files to the server for classification.
 
 2. **Set KNN Parameters**: 
-   - Define the parameters for the KNN algorithm, such as the value of **K** and the chosen distance metric.
+    Define the parameters for the KNN algorithm, such as the value of **K** and the chosen distance metric.
 
 3. **Classify Data**: 
-   - Execute classification on the uploaded test data using the defined KNN settings.
+    Execute classification on the uploaded test data using the defined KNN settings.
 
 4. **Get Classifications**: 
-   - Retrieve and display the results of the classification from the server.
+    Retrieve and display the results of the classification from the server.
 
 5. **Download Results**: 
-   - Save the classified data from the server to your local machine.
+    Save the classified data from the server to your local machine.
 
 6. **Exit**: 
-   - Disconnect from the server and close the client program.
+    Disconnect from the server and close the client program.
 
 ---
 
