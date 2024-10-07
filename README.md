@@ -6,6 +6,8 @@ This repository contains a K Nearest Neighbors (KNN) classifier implemented in C
 ### **Included Dataset**
 An example dataset, the **"iris"** dataset, is included in the "data" directory to facilitate easy testing of the application.
 
+
+
 ---
 
 ## **Getting Started**
@@ -121,5 +123,11 @@ Here’s a sample run of the program using the iris dataset:
 
 ## **About This Project**
 
-This KNN Classifier was developed as part of the **Advanced Programming** at **Bar Ilan University** during the academic year **2023**. 
-It was completed in collaboration with **Ye'ela Granot** (yeela8g). The project showcases the application of advanced programming techniques, including socket programming, multithreading, and algorithm optimization.
+### Contributors
+This KNN Classifier was developed as part of the **Advanced Programming** course at **Bar Ilan University** during the academic year **2023**. 
+
+- **Reut Lev** (reutlev98)
+- **Ye'ela Granot** (yeela8g)
+
+The project showcases the application of advanced programming techniques, including socket programming, multithreading, and algorithm optimization.
+
