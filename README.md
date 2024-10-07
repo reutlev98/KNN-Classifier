@@ -8,8 +8,6 @@ An example dataset, the **"iris"** dataset, is included in the "data" directory 
 
 
 
----
-
 ## **Getting Started**
 
 To run the KNN Classifier, follow these steps to set up both the client and server programs:
@@ -36,7 +34,7 @@ After establishing a connection, a menu will appear to guide you through the KNN
 
 **Note:** If there are connection issues, appropriate error messages will notify you, and both client and server programs will close.
 
----
+
 
 ## **Using the Application**
 
@@ -63,7 +61,7 @@ Once the client program is running, you will see a menu with several options:
    ![image](https://github.com/user-attachments/assets/5a883e34-feb9-433e-bb0c-d4e7a083cd29)
 
 
----
+
 
 ## **Key Programming Principles**
 
@@ -81,7 +79,7 @@ The KNN Classifier project embodies several important programming principles to 
 - **Robust Error Handling**: 
    The application includes comprehensive error management for user inputs, file operations, and network communications.
 
----
+
 
 ## **Performance Optimizations**
 
@@ -99,7 +97,7 @@ This KNN Classifier incorporates various optimizations for improved performance:
 4. **Reliable Communication**:
    - TCP/IP protocol is used for client-server communication, ensuring reliable and ordered transmission of data, which is crucial for real-time interactions.
 
----
+
 
 ## **Examples**
 
@@ -119,7 +117,7 @@ Here’s a sample run of the program using the iris dataset:
 
 )  
 
----
+
 
 ## **About This Project**
 
